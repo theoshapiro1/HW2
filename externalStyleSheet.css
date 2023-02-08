@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(210, 203, 203); 
+     }
+
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #bdbbbb;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #928f8f;
+  }
